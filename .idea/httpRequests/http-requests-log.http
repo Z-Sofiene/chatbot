@@ -1,0 +1,10 @@
+GET http://localhost:10000/api/malades-en-charge/adherent/9
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2024-07-31T160948.200.json
+
+###
+

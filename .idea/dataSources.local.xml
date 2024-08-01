@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal" created-in="IU-241.18034.62">
+    <data-source name="i_sante_db@localhost" uuid="9f449efd-0fab-488a-9409-13fb06b8ad66">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MYSQL" />
+      <user-name>root</user-name>
+      <schema-mapping />
+    </data-source>
+    <data-source name="i_sante_db@sof.i-sante.com" uuid="c4e61d97-9964-4888-9526-5470ab3ed19e">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MYSQL" />
+      <user-name>Sofiene</user-name>
+      <schema-mapping />
+    </data-source>
+  </component>
+</project>

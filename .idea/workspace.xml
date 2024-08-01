@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="028d9cdc-2709-44b3-9513-1169ea456c49" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2j9Bxst4M2ArU6f00SsbI9KOG31" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "HTTP Request.generated-requests | #2.executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.ChatbotApplication.executor": "Run",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/media/sofiene/39751FC36D266D4F/Sof/Sofiene/Stage GHMConsulting/i-sante-springboot/chatbot-V0",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.stylelint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.stylelint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "show.migrate.to.gradle.popup": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Sof\Sofiene\Stage GHMConsulting\i-sante-springboot\chatbot-V0\src\main\java\tn\i_sante\bpo\chatbot\controller" />
+      <recent name="E:\Sof\Sofiene\Stage GHMConsulting\i-sante-springboot\chatbot-V0\src\main\resources" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/static" />
+      <recent name="E:\Sof\Sofiene\Stage GHMConsulting\i-sante-springboot\chatbot-V0\src\main\resources\static" />
+      <recent name="E:\Sof\Sofiene\Stage GHMConsulting\i-sante-springboot\chatbot-V0\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ChatbotApplication">
+    <configuration name="generated-requests | #2" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="2" requestIdentifier="#2" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="ChatbotApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="chatbot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="tn.i_sante.bpo.chatbot.ChatbotApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.generated-requests | #2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="028d9cdc-2709-44b3-9513-1169ea456c49" name="Changes" comment="" />
+      <created>1720789663284</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720789663284</updated>
+      <workItem from="1720789663938" duration="1686000" />
+      <workItem from="1720792147642" duration="1437000" />
+      <workItem from="1721121757093" duration="348000" />
+      <workItem from="1721124487832" duration="924000" />
+      <workItem from="1721128097897" duration="9002000" />
+      <workItem from="1721142009149" duration="951000" />
+      <workItem from="1721223205179" duration="6165000" />
+      <workItem from="1721295497808" duration="11945000" />
+      <workItem from="1721312550365" duration="95000" />
+      <workItem from="1721312707414" duration="505000" />
+      <workItem from="1721319616309" duration="31000" />
+      <workItem from="1721393723851" duration="631000" />
+      <workItem from="1721570767825" duration="3300000" />
+      <workItem from="1721571817126" duration="1448000" />
+      <workItem from="1721577383567" duration="7736000" />
+      <workItem from="1721652584791" duration="5452000" />
+      <workItem from="1721724743098" duration="101000" />
+      <workItem from="1721730575907" duration="7320000" />
+      <workItem from="1721745111245" duration="1424000" />
+      <workItem from="1721811993487" duration="17501000" />
+      <workItem from="1721902383090" duration="125000" />
+      <workItem from="1722076898293" duration="641000" />
+      <workItem from="1722170080639" duration="10070000" />
+      <workItem from="1722260508995" duration="9240000" />
+      <workItem from="1722270378074" duration="1124000" />
+      <workItem from="1722272674230" duration="386000" />
+      <workItem from="1722333649026" duration="875000" />
+      <workItem from="1722334538894" duration="1169000" />
+      <workItem from="1722335762574" duration="15897000" />
+      <workItem from="1722413530424" duration="5590000" />
+      <workItem from="1722422392917" duration="3583000" />
+      <workItem from="1722427575525" duration="72000" />
+      <workItem from="1722429927775" duration="24399000" />
+      <workItem from="1722510794742" duration="4305000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

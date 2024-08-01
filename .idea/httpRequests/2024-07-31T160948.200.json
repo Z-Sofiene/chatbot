@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2,
+    "nom": "Zaghab",
+    "prenom": "Mouna",
+    "qualite": "mere",
+    "adherent": {
+      "matricule": 9,
+      "nom": "Zaghab",
+      "prenom": "Jihen",
+      "username": "jiji",
+      "password": "0000",
+      "genre": "FEMALE",
+      "matricule_fiscale": "qsdqsd",
+      "date_de_naissance": "2024-07-09",
+      "email": "qsdsqd@qsd.qsd",
+      "role": "PATIENT",
+      "cin": "23234455",
+      "rib_RIP": "aaaze"
+    },
+    "cin": "22334455"
+  },
+  {
+    "id": 4,
+    "nom": "SI",
+    "prenom": "SO",
+    "qualite": "pere",
+    "adherent": {
+      "matricule": 9,
+      "nom": "Zaghab",
+      "prenom": "Jihen",
+      "username": "jiji",
+      "password": "0000",
+      "genre": "FEMALE",
+      "matricule_fiscale": "qsdqsd",
+      "date_de_naissance": "2024-07-09",
+      "email": "qsdsqd@qsd.qsd",
+      "role": "PATIENT",
+      "cin": "23234455",
+      "rib_RIP": "aaaze"
+    },
+    "cin": "3434"
+  }
+]
