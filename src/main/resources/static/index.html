@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="bootstrap/dist/css/bootstrap.min.css">
+  <link rel="stylesheet" href="fontawesome/css/all.css">
+  <title>Home</title>
+  <style>
+    .container {
+      margin-top: 20px;
+    }
+    .card {
+      margin-bottom: 20px;
+    }
+    pre {
+      white-space: pre-wrap; /* Wrap text and preserve whitespace */
+    }
+    .btn-warning-custom {
+      background-color: #f0ad4e;
+      border-color: #eea236;
+      color: white;
+    }
+    .btn-warning-custom:hover {
+      background-color: #ec971f;
+      border-color: #d58512;
+      color: white;
+    }
+    .box {
+      margin-top: 20px;
+    }
+    .container {
+      margin-top: 20px;
+    }
+    .card {
+      margin-bottom: 20px;
+    }
+    pre {
+      white-space: pre-wrap; /* Wrap text and preserve whitespace */
+    }
+
+    body {
+        padding: 20px;
+    }
+
+  </style>
+
+</head>
+<body>
+
+  <header>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light shadow-sm">
+      <div class="container">
+        <a class="navbar-brand" href="#"><span class="text-primary">I</span>-Sante</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupport" aria-controls="navbarSupport" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupport">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item active">
+              <a class="nav-link" href="index.html"><i class="fas fa-home"></i> Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="api_endpoints.html">API Endpoints</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="list_adherents.html">Adherents</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="list_dossiers.html">Dossiers</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="list_reclamations.html">Reclamations</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="list_malades_en_charge.html">Les malades en charge</a>
+            </li>
+            <li class="nav-item">
+              <a class="btn btn-primary ml-lg-3" href="login.html">Login / Register</a>
+            </li>
+          </ul>
+        </div> <!-- .navbar-collapse -->
+      </div> <!-- .container -->
+    </nav>
+  </header>
+
+  <div class="container">
+    <div class="card">
+      <div class="card-body">
+        <a class="btn btn-warning-custom" href="http://sof.i-sante.com:10000/actuator/mappings" target="_blank">
+          <i class="fas fa-exclamation-triangle"></i> View Mappings
+        </a>
+      </div>
+    </div>
+
+    <div class="box card">
+      <div class="card-body">
+        <h5 class="card-title">Execute GET Request</h5>
+        <form id="curlForm">
+          <div class="form-group">
+            <label for="endpoint">Enter Endpoint:</label>
+            <input type="text" class="form-control" id="endpoint" placeholder="API Endpoint" required>
+          </div>
+          <button type="submit" class="btn btn-primary">Execute Request</button>
+        </form>
+        <div id="response" class="mt-3"></div>
+      </div>
+    </div>
+  </div>
+  <script src="js/index-script.js"></script>
+
+</body>
+</html>
