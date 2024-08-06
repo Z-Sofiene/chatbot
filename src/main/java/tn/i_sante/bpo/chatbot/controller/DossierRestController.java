@@ -31,7 +31,7 @@ public class DossierRestController {
         return new ResponseEntity<>(service.getAllDossiersByAdherentMatricule(matricule), HttpStatus.OK);
     }
 
-    @PostMapping
+    @PostMapping("/add")
     public Dossier addDossier(@RequestBody Dossier dossier) {
         return service.addDossier(dossier);
     }

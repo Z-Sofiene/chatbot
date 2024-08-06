@@ -9,7 +9,11 @@ public class Reclamation {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private long id_reclamation;
+    /*
     @Enumerated(EnumType.STRING)
+    private Type type_reclamation;
+     */
+	@Enumerated(EnumType.STRING)
     private StatusReclamation statut;
     private String textReclamation;
 

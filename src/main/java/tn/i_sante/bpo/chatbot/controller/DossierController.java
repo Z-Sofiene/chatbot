@@ -4,6 +4,7 @@ import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
+import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
 
@@ -12,11 +13,13 @@ import tn.i_sante.bpo.chatbot.entity.Dossier;
 import tn.i_sante.bpo.chatbot.repository.MaladeEnChargeRepository;
 import tn.i_sante.bpo.chatbot.service.DossierService;
 
-@RestController
+@Controller
 @RequestMapping("/dossiers")
 public class DossierController {
+
     @Autowired
     private DossierService service;
+    @Autowired
     private MaladeEnChargeRepository maladeEnChargeRepository;
 
 

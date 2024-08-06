@@ -19,6 +19,7 @@ public interface ReclamationService {
     List<Reclamation> getAllReclamationsByAdherentId(long matricule_adherent);
 
     List<Reclamation> getAllReclamations();
+    List<Reclamation> getAllByAdherentMatricule(long matricule_adherent);
 
 }
 
