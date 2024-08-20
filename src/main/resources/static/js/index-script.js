@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', function() {
             event.preventDefault();
 
             const endpoint = document.getElementById('endpoint').value;
-            const url = 'http://sof.i-sante.com:10000/' + endpoint;
+            const url = 'http://localhost:10000/' + endpoint;
 
             fetch(url)
                 .then(response => response.text())

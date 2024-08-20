@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="028d9cdc-2709-44b3-9513-1169ea456c49" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/tn/i_sante/bpo/chatbot/controller/WebServiceMappingRestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tn/i_sante/bpo/chatbot/service/WebServiceMapping.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="028d9cdc-2709-44b3-9513-1169ea456c49" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,10 +13,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
-        <option value="JavaScript File" />
-        <option value="HTML File" />
         <option value="Enum" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -58,7 +53,7 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/media/sofiene/39751FC36D266D4F/Sof/Sofiene/Stage GHMConsulting/i-sante-springboot/chatbot-V0",
+    "last_opened_file_path": "/media/sofiene/39751FC36D266D4F/Sof/Sofiene/Stage GHMConsulting/i-sante-springboot/chatbot-V1",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.stylelint": "true",
     "node.js.detected.package.tslint": "true",
@@ -96,7 +91,7 @@
       <method v="2" />
     </configuration>
     <configuration name="ChatbotApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <module name="chatbot" />
+      <module name="demo" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="tn.i_sante.bpo.chatbot.ChatbotApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -111,8 +106,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
-        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.20224.419" />
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-IU-242.20224.419" />
       </set>
     </attachedChunks>
   </component>
@@ -165,7 +160,19 @@
       <workItem from="1722933330534" duration="2215000" />
       <workItem from="1723121448080" duration="988000" />
       <workItem from="1723126748750" duration="611000" />
-      <workItem from="1723203285867" duration="4882000" />
+      <workItem from="1723203285867" duration="8605000" />
+      <workItem from="1723293126881" duration="656000" />
+      <workItem from="1723302172861" duration="3414000" />
+      <workItem from="1723718809975" duration="3481000" />
+      <workItem from="1723815735937" duration="2847000" />
+      <workItem from="1723895711243" duration="9856000" />
+      <workItem from="1724055043283" duration="173000" />
+      <workItem from="1724055460876" duration="11905000" />
+      <workItem from="1724070659514" duration="30000" />
+      <workItem from="1724070725449" duration="1961000" />
+      <workItem from="1724147914155" duration="648000" />
+      <workItem from="1724149321579" duration="999000" />
+      <workItem from="1724168168280" duration="6879000" />
     </task>
     <servers />
   </component>
